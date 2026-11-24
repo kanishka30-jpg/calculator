@@ -118,6 +118,7 @@ To design and develop a simple calculator using HTML, CSS, and JavaScript to per
 ```
 
 ## OUTPUT
+<img width="1696" height="910" alt="Screenshot 2026-11-24 124554" src="https://github.com/user-attachments/assets/8c0185ea-abcd-4a87-961d-510b15cf0e2c" />
 
 
 ## RESULT
